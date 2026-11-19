@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /_release/
+Sitemap: https://morupatch-lab.hyeon661144.chatgpt.site/sitemap.xml
