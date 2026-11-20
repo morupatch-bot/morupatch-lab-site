@@ -68,8 +68,8 @@
     },
     {
       "path": "robots.txt",
-      "bytes": 128,
-      "sha256": "888a7f0a219ac3467e3adf6d31c56a26367a914360122b9f3b22a1b8e182a8ee"
+      "bytes": 268,
+      "sha256": "ba764304a3c3df7fdb9191a514b224d3e28cce748b473bbad89708abc30a024e"
     },
     {
       "path": "service-core.js",

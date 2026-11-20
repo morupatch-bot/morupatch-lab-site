@@ -2,4 +2,10 @@ User-agent: *
 Allow: /
 Disallow: /api/
 Disallow: /_release/
+Allow: /_release/*.css
+Allow: /_release/*.js
+Allow: /_release/*.svg
+Allow: /_release/*.png
+Allow: /_release/*.webp
+Allow: /_release/*.woff2
 Sitemap: https://morupatch-lab.hyeon661144.chatgpt.site/sitemap.xml
