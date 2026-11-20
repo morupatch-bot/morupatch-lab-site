@@ -28,8 +28,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 24884,
-      "sha256": "a910906e867da5c0628223eac719467f58d873ad7d4e6532fbcc2ec4e8166108"
+      "bytes": 25039,
+      "sha256": "b75bb8287909144abc079346d3f31586775942c70edd8d0492792ee5022c5724"
     },
     {
       "path": "notes/admin-request-acceptance.html",
@@ -53,8 +53,8 @@
     },
     {
       "path": "notes/prototype-versus-production.html",
-      "bytes": 4068,
-      "sha256": "73ce0e759aabaa43e3079a924d878bcd4af9df622241e0d63ebe003ee066fe71"
+      "bytes": 9350,
+      "sha256": "5e8d34b4c2271a904fbe09fe0e0e76858fc7aae8608ec9cf49d6a9ea39dfe4d2"
     },
     {
       "path": "og-morupatch.png",
@@ -123,8 +123,8 @@
     },
     {
       "path": "work-notes.json",
-      "bytes": 19906,
-      "sha256": "ba8188dc50201a685cd7621565596f4353da15ca1656d96126a71cefad493b1c"
+      "bytes": 25335,
+      "sha256": "6601d633e9ba00bd144c3372bcdd2fd8706038c7430aca1ee987a06d820de49f"
     }
   ]
 }
