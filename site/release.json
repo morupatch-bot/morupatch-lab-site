@@ -28,8 +28,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 24220,
-      "sha256": "f514a1ad4a665072599097c17d7c16d2b8169172f7a21510f0d4eeeb6531d8c7"
+      "bytes": 24884,
+      "sha256": "a910906e867da5c0628223eac719467f58d873ad7d4e6532fbcc2ec4e8166108"
     },
     {
       "path": "notes/admin-request-acceptance.html",
@@ -78,13 +78,13 @@
     },
     {
       "path": "scope-core.js",
-      "bytes": 1085,
-      "sha256": "5dec8497ee7b628aecc6802e8e3d04864ee638d0cac1ef6ce2e21a8ebfc447e4"
+      "bytes": 3864,
+      "sha256": "2ec04ca14bc27570447f8a9f35306aadc3501cc14b3ac85c3feb4ca72d865ac7"
     },
     {
       "path": "scope-helper.js",
-      "bytes": 1648,
-      "sha256": "daa959ad44805c88ad47aacb851b62011be8a95ca72f5fd274bc24b4b62887ae"
+      "bytes": 2096,
+      "sha256": "81fbd64eac20f3380be41f6b8583b9df19b8f6881004b72da531eb06393c8d21"
     },
     {
       "path": "service-core.js",
