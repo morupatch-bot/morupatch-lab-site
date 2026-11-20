@@ -61,9 +61,10 @@
         </div>
         <div class="service-pane service-admin"><div class="admin-heading"><div><p class="service-pane-label">관리자 화면</p><h3>접수된 요청</h3></div><button id="demo-reset" class="button button-plain" type="button">샘플 초기화</button></div>
           <div class="admin-controls"><label for="demo-filter">처리 상태</label><select id="demo-filter"><option value="all">전체 요청</option><option value="new">신규</option><option value="reviewing">검토 중</option><option value="done">처리 완료</option></select></div>
+          <div class="request-search"><label for="demo-search">요청 찾기</label><div class="request-search-controls"><input id="demo-search" type="search" maxlength="80" placeholder="#3, 이름 또는 기능 내용" aria-describedby="demo-search-help" autocomplete="off"><button id="demo-search-clear" type="button" class="button button-small button-white" disabled>찾기 지우기</button></div><p id="demo-search-help" class="field-help">정확한 번호는 #3처럼 입력하세요. 공백으로 나눈 단어를 모두 포함한 요청을 현재 상태 안에서 찾습니다. 찾기어는 서버로 보내지 않습니다.</p></div>
           <p id="demo-request-count" class="admin-count" aria-live="polite"></p><ul id="demo-requests" class="request-list"></ul>
         </div>
-      </div><div class="demo-footer"><p>데모 요청을 등록하고 검토 시작 → 완료 처리 후 요청별 처리 이력을 펼쳐 보세요. 상태 필터를 바꿔도 이력은 유지됩니다.</p><a class="text-link" href="#contact" data-service="web">이런 서비스 개발 문의</a></div>
+      </div><div class="demo-footer"><p>요청을 등록하고 번호·이름·기능 내용으로 찾아보세요. 검토 시작 → 완료 처리 후 이력을 펼치거나 상태와 찾기 조건을 함께 바꿔 볼 수 있습니다.</p><a class="text-link" href="#contact" data-service="web">이런 서비스 개발 문의</a></div>
     </section>
     <details class="legacy-demos"><summary>이전 브라우저 파일 도구 예제도 보기</summary>    <section class="section section-demo" id="file-demos">
       <div class="section-heading"><div><p class="eyebrow ink-muted">MORE LOCAL EXAMPLES</p><h2>보조 예제 · 파일 처리</h2></div><p>아래 예시는 직접 만든 합성 데이터 데모입니다.<br>납품 사례나 고객 데이터가 아닙니다.</p></div>

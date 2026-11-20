@@ -28,8 +28,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 20402,
-      "sha256": "6c1b03797ab1f69cfa8367dcacd549d8cac21cad1777eb9674bbf2cdeb7ed630"
+      "bytes": 21078,
+      "sha256": "1e708686df1966804ec947ac5870115d628a06b1b526054513f67b308377ea93"
     },
     {
       "path": "notes/browser-local-file-demo.html",
@@ -73,13 +73,13 @@
     },
     {
       "path": "service-core.js",
-      "bytes": 1752,
-      "sha256": "47031e20e515a2548e468a4a2a898a7bbf3f8caaa668d5e5a5dbf4fa01f62f4b"
+      "bytes": 2156,
+      "sha256": "3e3e4ad49b4b9b324d9d0d0e251f1f411ebfc2329dee4f5320c9f15c94a99786"
     },
     {
       "path": "service-demo.js",
-      "bytes": 3148,
-      "sha256": "50e73171502548db35f76d746e620d96cc80076b23dd86ee87f9e5a6cc58285a"
+      "bytes": 3602,
+      "sha256": "4477e3559feeecf60fc7dec5b34ca56e8110aa1eff72a2d00f7374e7fdd00b55"
     },
     {
       "path": "services/admin-development.html",
@@ -103,8 +103,8 @@
     },
     {
       "path": "styles.css",
-      "bytes": 27496,
-      "sha256": "765ccef389397f381183f7235ecab96ec8c84a1f270cdab0f6272405e2f61b6c"
+      "bytes": 27835,
+      "sha256": "ba26f438bd030c0ec2cf26b4945eb80f250b7d6b9d28c0a255e418357221a029"
     },
     {
       "path": "work-notes.json",
