@@ -28,8 +28,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 21450,
-      "sha256": "3d08aa2f3c06f6b2c150057682de990bc522b97af8f43cb239b1570f9420fa49"
+      "bytes": 24220,
+      "sha256": "f514a1ad4a665072599097c17d7c16d2b8169172f7a21510f0d4eeeb6531d8c7"
     },
     {
       "path": "notes/admin-request-acceptance.html",
@@ -77,6 +77,16 @@
       "sha256": "ba764304a3c3df7fdb9191a514b224d3e28cce748b473bbad89708abc30a024e"
     },
     {
+      "path": "scope-core.js",
+      "bytes": 1085,
+      "sha256": "5dec8497ee7b628aecc6802e8e3d04864ee638d0cac1ef6ce2e21a8ebfc447e4"
+    },
+    {
+      "path": "scope-helper.js",
+      "bytes": 1648,
+      "sha256": "daa959ad44805c88ad47aacb851b62011be8a95ca72f5fd274bc24b4b62887ae"
+    },
+    {
       "path": "service-core.js",
       "bytes": 2156,
       "sha256": "3e3e4ad49b4b9b324d9d0d0e251f1f411ebfc2329dee4f5320c9f15c94a99786"
@@ -98,8 +108,8 @@
     },
     {
       "path": "services/product-improvements.html",
-      "bytes": 3587,
-      "sha256": "1583ed6fcc6bdb02379af26963fea448585943d621d83816a10537188f8ab900"
+      "bytes": 7311,
+      "sha256": "09439e708ba4c5d920d7fdae2a1c6f6225fe07cc7509d800c8206acb307ff5b9"
     },
     {
       "path": "sitemap.xml",
@@ -108,8 +118,8 @@
     },
     {
       "path": "styles.css",
-      "bytes": 27835,
-      "sha256": "ba26f438bd030c0ec2cf26b4945eb80f250b7d6b9d28c0a255e418357221a029"
+      "bytes": 28403,
+      "sha256": "4f1abb384ba4176137f24643df8abaa0d5979e81bd11a924edca5feb1a26888d"
     },
     {
       "path": "work-notes.json",

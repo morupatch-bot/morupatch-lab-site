@@ -25,3 +25,4 @@
 @media print{.legacy-demos{display:block!important;margin:0;border:0}.legacy-demos>summary,.service-demo-section{display:none!important}}
 
 .service-pane fieldset{border:0;padding:0;margin:0;min-width:0;display:grid;gap:12px}.legacy-demos[open]>summary{border-bottom:1px solid var(--line)}@media print{.legacy-demos .section-heading{display:none!important}}
+.scope-helper{border:1px solid #425265;border-radius:6px;padding:18px;margin-top:25px;min-width:0}.scope-helper summary{cursor:pointer;font-size:15px;color:var(--mint);line-height:1.8}.scope-helper fieldset{min-width:0;border:0;padding:0;margin:20px 0 0}.scope-helper legend{font-size:14px;color:#d5dfe6;margin-bottom:18px}.scope-helper .form-field textarea{min-height:85px;white-space:pre-wrap;overflow-wrap:anywhere}.scope-helper #scope-preview{min-height:210px}.scope-helper .button{margin-bottom:18px;max-width:100%}.scope-helper .form-status.error{color:#ffc7bd}
