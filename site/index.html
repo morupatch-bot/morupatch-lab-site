@@ -53,7 +53,7 @@
     </section>
     <section class="section section-demo service-demo-section" id="demos">
       <div class="section-heading"><div><p class="eyebrow ink-muted">TRY A SERVICE FLOW</p><h2>사용자 신청이,<br>관리자 업무가 되기까지.</h2></div><p>직접 만든 요청 관리 서비스의 화면·동작 데모입니다.<br>고객 납품 사례가 아닌 합성 예시입니다.</p></div>
-      <div class="service-demo-notice">브라우저 안에서만 실행되는 프로토타입입니다. 입력은 서버로 보내지 않으며, 새로고침하면 초기화됩니다. 실제 서비스의 로그인·서버 저장·결제는 연결하지 않았습니다.</div>
+      <div class="service-demo-notice">브라우저 안에서만 실행되는 프로토타입입니다. 입력과 처리 이력은 서버로 보내지 않으며, 새로고침·샘플 초기화 시 지워집니다. 실제 서비스의 로그인·서버 저장·결제는 연결하지 않았습니다. 이력은 이 화면의 동작 순서이며 실제 운영자의 신원이나 서버 감사 로그를 증명하지 않습니다.</div>
       <div class="service-demo-grid">
         <div class="service-pane"><p class="service-pane-label">사용자 화면</p><h3>서비스 도입 상담 신청</h3><p>요청을 하나 등록한 뒤 오른쪽 운영 화면에서 처리해 보세요. 실제 개인정보는 넣지 마세요.</p>
           <form id="service-demo-form" method="post"><fieldset id="demo-fields" disabled><label for="demo-request-name">예시 활동명</label><input id="demo-request-name" value="샘플 고객 C" maxlength="40" required><label for="demo-request-goal">만들고 싶은 기능</label><textarea id="demo-request-goal" minlength="10" maxlength="300" required>예약 신청을 받고 관리자가 상태를 확인하는 서비스를 만들고 싶어요.</textarea><button class="button button-ink" type="submit">데모 요청 등록</button></fieldset></form>
@@ -63,7 +63,7 @@
           <div class="admin-controls"><label for="demo-filter">처리 상태</label><select id="demo-filter"><option value="all">전체 요청</option><option value="new">신규</option><option value="reviewing">검토 중</option><option value="done">처리 완료</option></select></div>
           <p id="demo-request-count" class="admin-count" aria-live="polite"></p><ul id="demo-requests" class="request-list"></ul>
         </div>
-      </div><div class="demo-footer"><p>신청 입력·목록 반영·상태 변경·필터의 흐름을 직접 확인할 수 있습니다.</p><a class="text-link" href="#contact" data-service="web">이런 서비스 개발 문의</a></div>
+      </div><div class="demo-footer"><p>데모 요청을 등록하고 검토 시작 → 완료 처리 후 요청별 처리 이력을 펼쳐 보세요. 상태 필터를 바꿔도 이력은 유지됩니다.</p><a class="text-link" href="#contact" data-service="web">이런 서비스 개발 문의</a></div>
     </section>
     <details class="legacy-demos"><summary>이전 브라우저 파일 도구 예제도 보기</summary>    <section class="section section-demo" id="file-demos">
       <div class="section-heading"><div><p class="eyebrow ink-muted">MORE LOCAL EXAMPLES</p><h2>보조 예제 · 파일 처리</h2></div><p>아래 예시는 직접 만든 합성 데이터 데모입니다.<br>납품 사례나 고객 데이터가 아닙니다.</p></div>
